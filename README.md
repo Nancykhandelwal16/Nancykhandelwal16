@@ -3,7 +3,8 @@
 Creative Full Stack Developer with 2+ years of experience building and scaling high-performance MERN-stack apps. Expert in React.js, Node.js, and MongoDB. Passionate about logical problem-solving, clean architecture, scalable design, and crafting secure, efficient, user-centric solutions.
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nancykhandelwal16) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandelwalnancy5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nancykhandelwal16) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:khandelwalnancy5@gmail.com" target="_blank"></a>
+)
 
 ## 💻 Tech Stack
 
