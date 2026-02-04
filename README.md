@@ -33,7 +33,7 @@ Creative Full Stack Developer with 1.5 years of experience building and scaling 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-## 🧑‍💻 Experience
+## 💻 Experience
 
 ### Full Stack Developer – Codebird Technologies Pvt Ltd  
 *06/2024 – Present · Jaipur, India* 
